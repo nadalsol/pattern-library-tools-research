@@ -7,7 +7,6 @@
 
 1. [Features](#features)
 2. [Tools](#tools)
-3. [Opened questions](#opened-questions)
 
 ## Features
 
